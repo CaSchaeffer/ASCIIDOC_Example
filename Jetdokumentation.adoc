@@ -1,0 +1,42 @@
+= Jetreports Migrationsdokumentation
+This is the document title, indicating that the document is about "Jetreports Migrationsdokumentation."
+
+== 1. Allgemeine Informationen
+This is a section heading, indicating that the following content will contain general information related to Jetreports Migrationsdokumentation.
+
+=== Aufbau eines Jetreports
+This is a subsection heading, further categorizing the content under "Allgemeine Informationen." It describes the structure of Jetreports.
+
+* Item 1
+
+* Item 2
+** Subitem 2.1
+** Subitem 2.2
+These are bullet points or lists, with nested subitems under "Item 2."
+
+Italic "Mein Name ist Carl"
+This is text formatted in italics. The phrase "Mein Name ist Carl" is also in italics.
+
+Bold
+This is text formatted in bold.
+
+Monospace
+This is text formatted in monospace font, typically used for code or code-like elements.
+
+image::image.jpg[Alt text]
+This is an image reference with the alt text "Alt text." It indicates that there is an image named "image.jpg" in the document.
+
+|===
+| Header 1 | Header 2
+
+| Cell 1 | Cell 2
+| Cell 3 | Cell 4
+|===
+This is a table structure with two headers and four cells. It's used for organizing tabular data.
+
+[NOTE]
+This is a note or a tip.
+This is a callout or note section. It's often used to highlight important information or provide additional context.
+
+====
+include::source_code.py[]
